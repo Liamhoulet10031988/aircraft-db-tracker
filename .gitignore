@@ -1,0 +1,12 @@
+.venv/
+.idea/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+database.ini
+*.log
+
+# coverage_html намеренно не игнорируется: отчет нужен наставнику.
